@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @B0xee
 - 👀 I’m interested in Cyber Security, AI.
-- 🌱 I’m currently learning Web-dev (looking for money)
-- 💞️ I’m looking to collaborate on TBA
+- 🌱 I’m currently (looking for money)
+- 💞️ I’m CURRENTLY BUILDING A GAME
 - 📫 How to reach me htra0030@gmail.com
 
 <!---
